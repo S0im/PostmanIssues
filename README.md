@@ -1,6 +1,6 @@
 # PostmanIssues
 V20170612
-Postman中文使用说明，欢迎大家多多补充https://github.com/S0im/PostmanIssues/issues。
+Postman中文使用说明，欢迎大家多多补充https://github.com/S0im/PostmanIssues/issues
 ----------------------------------------------------------------------------------------------------------------------
 Hellow,everyone.Welcom to my collections.Hope it will help U. If U have a better idear , please let me konw~
 ----------------------------------------------------------------------------------------------------------------------
