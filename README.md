@@ -50,4 +50,7 @@ chrome版本的postman官方已经下架，后续chrome版本估计不会更新�
 - V20180109
 更新了commen.js中部分页面的汉化。本次文件更新后的MD5 Hash值为 2bd45c1e8ecf95a8b8fad7038c73dab9
 
+- V20180109
+更新了部分弹框页面中的描述汉化。本次文件更新后的MD5 Hash值为 74fdfcb18176f33401536f3081af9ffc
+
  [zuohuadong]: https://github.com/zuohuadong/     "zuohuadong"
