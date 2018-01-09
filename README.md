@@ -45,9 +45,9 @@ chrome版本的postman官方已经下架，后续chrome版本估计不会更新�
 更新chrome版postman的汉化版本，该版本为我自己独立汉化，如有遗漏，欢迎指正。该版本在页面上去掉了部分花钱才能使用的功能，可能官方会追着我打，要是他们提出禁止我发布，我会删掉。咳咳，你们用着开心就好。Postman的Chrome版本汉化起来其实不难，只需要一点点简单的JS语法基础，你也可以自己动手修改。找到postman插件的安装地址，C:\Users\(你的用户名)\AppData\Local\Google\Chrome\User Data\Default\Extensions\(你的postman的APPID)\5.4.0_0,打开\js\文件夹，requester.js就是postman主体的程序所在，runner.js就是runner程序的主体，用编辑器打开，就可以修改啦！(不要使用windows自带的文本编辑器，不要问我为什么，requester.js大小是10M多.....)请注意，我发布的版本MD5 Hash值为 729a26570cb7cb8d3df46c97a5c08937 ，各位下载后可直接复制common.js、requester.js、runner.js覆盖自己的安装文件即可。别处下载的版本就不要找我问啦~
 
 - V20180109
-更新了首次打开postman时页面未汉化问题，更新了首次进入工作区时的欢迎页面未汉化问题。感谢[zuohuadong] [1]同学的技术支持。本次文件更新后的MD5 Hash值为 38f84bb5c688bc10b7ac479dc58dbd28
+更新了首次打开postman时页面未汉化问题，更新了首次进入工作区时的欢迎页面未汉化问题。感谢[zuohuadong] 同学的技术支持。本次文件更新后的MD5 Hash值为 38f84bb5c688bc10b7ac479dc58dbd28
 
 - V20180109
 更新了commen.js中部分页面的汉化。本次文件更新后的MD5 Hash值为 2bd45c1e8ecf95a8b8fad7038c73dab9
 
- [1]: https://github.com/zuohuadong/     "zuohuadong"
+ [zuohuadong]: https://github.com/zuohuadong/     "zuohuadong"
