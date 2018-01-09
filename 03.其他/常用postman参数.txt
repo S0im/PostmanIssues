@@ -1,5 +1,0 @@
-1.postman.setNextRequest("")
-可以在tests或者prescripts里指定下一次运行的用例
-postman.setNextRequest("request_name");
-如果 设置为 postman.setNextRequest(null); 则停止运行用例。不使用该参数，默认按照collection里的排序顺序执行下一个。
-2.
